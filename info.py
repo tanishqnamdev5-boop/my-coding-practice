@@ -1,0 +1,5 @@
+print("tanishq")
+print("jabalpur")
+print("Hello,","tanishq","you are from","jabalpur")
+print("what is your age")
+print("my age is",18)
