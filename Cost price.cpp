@@ -10,7 +10,7 @@ int main() {
     int cost = area*7;
     
     cout << area << endl;
-    cout << "$" <<cost << endl;
+    cout <<"The cost of fencing is :" << "$" << cost <<endl;
 
     return 0;
 }
